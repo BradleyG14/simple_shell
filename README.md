@@ -8,15 +8,13 @@
 
 > This is a simple UNIX command interpreter based on bash and Sh.
 
-## Author
+## 👤 Authors
 
-👤 **Bradley Gabriel, Blain Muema**
-
-* Github: [@BradleyG14, octocatblain](https://github.com/BradleyG14, octocatblain)
+* [**Bradley Gabriel**](https://github.com/BradleyG14)
+* [**Blain Muema**](https://github.com/octocatblain)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
